@@ -20,7 +20,7 @@
 <p align="center"> 
 <a> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chosen-ox&theme=yeblu"/>
-  <img src="https://media.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif"/>
+<img src="https://media.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif"/>
 </a>
 </p>
 
