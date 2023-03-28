@@ -19,11 +19,20 @@
 
 <p align="center"> 
 <a> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chosen-ox&theme=yeblu"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chosen-ox&theme=yeblu"/>
+  <img src="https://media.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif"/>
 </a>
 </p>
+
+<p aligan="right">
+<a>
+<!-- <img src="https://media.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif"> -->
+</a>
+</p>
+
 <p align="center"> 
 <a> 
 <img src="https://gpvc.arturio.dev/chosen-ox"/> 
 </a>
 </p>
+
