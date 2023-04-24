@@ -1,4 +1,4 @@
-<img align="right" width="600em" src="https://github-readme-stats.vercel.app/api?username=chosen-ox&show_icons=true&icon_color=CE1D2D&theme=shades-of-purple" />
+<img align="right" width="600em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chosen-ox&show_icons=true&icon_color=CE1D2D&theme=shades-of-purple" />
 
 ### Hi there 👋
 - 🌱 I’m currently learning compiler, parallel and distributed system.
