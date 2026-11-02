@@ -1,4 +1,4 @@
-<img align="right" width="600em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chosen-ox&show_icons=true&icon_color=CE1D2D&theme=shades-of-purple" />
+<img align="right" width="600" alt="GitHub activity summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chosen-ox&amp;theme=shades_of_purple" />
 
 ### Hi there 👋
 - 🌱 I’m currently learning compiler, parallel and distributed system.
@@ -12,27 +12,19 @@
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
 </p>
 
 
 
 <p align="center"> 
-<a> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chosen-ox&theme=yeblu"/>
-<img src="https://media.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif"/>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=chosen-ox&amp;theme=yeblu"/>
 </a>
-</p>
-
-<p aligan="right">
-<a>
-<!-- <img src="https://media.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif"> -->
-</a>
+<img alt="Ferris the Rust mascot" src="https://media.tenor.com/djaLJiqAxzIAAAAC/rust-lang-ferris.gif"/>
 </p>
 
 <p align="center"> 
-<a> 
-<img src="https://gpvc.arturio.dev/chosen-ox"/> 
-</a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=chosen-ox&amp;style=flat-square"/>
 </p>
 
